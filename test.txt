@@ -10,4 +10,8 @@ git
 linux
 oracle
 redis
+nginx
 高并发
+负载均衡
+高可用
+动静分离
