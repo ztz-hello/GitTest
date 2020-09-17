@@ -7,3 +7,7 @@ mybatis
 spring boot
 mysql redis 
 git
+linux
+oracle
+redis
+高并发
